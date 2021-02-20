@@ -22,3 +22,8 @@ a:hover {
     text-decoration: none;
     color: #A6A2EF;
 }
+.card-img-top {
+    width: 100%;
+    height: 12vw;
+    object-fit: cover;
+}
